@@ -48,20 +48,6 @@ body{
 
 
 
-
-nav{
-    background-color: #fff;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 70px;
-    padding-left:6rem;
-    padding-right:6rem  ;
-    } */
-
-
-
-
 .logo{
     font-size: 28px;
     font-weight: 700;
@@ -174,7 +160,10 @@ nav .icon .fa{
 
 
 
-/* nav .socialtop .top-social{
+/* nav 
+
+
+top .top-social{
     padding-right: 18rem;
 } */
 
